@@ -1,0 +1,20 @@
+consumer API key
+
+WvEH0XApBKa87rdvPWfCxxnLC
+
+cosumer API key scret
+
+m6Kg0PmNUoFouOAwP37Ez5w0IoiuYfoj4vj1CVL1Lh8Qxrl5Of
+
+bearer token
+
+AAAAAAAAAAAAAAAAAAAAAEHSXwEAAAAAs3tCKtQ8hFtuGzYAhoLNEivcoDo%3DpQYD9tvRQut1bTXZzyyI2h63n7p6nAxhJxBiTKRudUFlW2Xit3
+
+
+Access token key
+
+1465603561547612168-btnKPVkHzEJ4O1WPNh1M3dWB5zhYsD
+
+Acess token secret key
+
+WD8WCFat2R2eXU4W0jbyV5yZEvShg3nwteE3ZwyMMLrAM
